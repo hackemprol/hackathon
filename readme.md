@@ -14,4 +14,6 @@ Não haverá nenhum tipo de restrição sobre o software, linguagem de programa�
 Após o término da codificação será iniciado a fase de apresentações via Google Hangout, onde os usuários terão a oportunidade de mostrar como funciona o seu projeto da maneira que preferir.  
 ### Temas  
 Os temas serão livres, existirão algumas sugestões criadas pelas as instituições de problemas que eles vêem enfrentando próximo do evento.  
-
+### Inscrições  
+As inscrições serão realizadas uma semana antes do evento, e pra se inscrever é bem simples. 
+É só fazer um fork desse repositorio e adicionar um arquivo txt com o nome do seu time seguindo o arquivo de inscrição de exemplo, que está na pasta inscrições. 
