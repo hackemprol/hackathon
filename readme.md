@@ -11,7 +11,8 @@ O evento ocorrerá nos dias 10, 11, 12 de julho de 2015. Tendo início na sexta-
 ### Tecnologias utilizadas  
 Não haverá nenhum tipo de restrição sobre o software, linguagem de programação ou hardware desenvolvido.  
 ### Temas  
-Os temas serão livres, existirão algumas sugestões criadas pelas as instituições de problemas que eles vêem enfrentando próximo do evento.  
+O tema funcionára da seguinte maneira, uma ONG será selecionada como tema do hackathon vigente. Após a mesma ser selecionada, nossa equipe não só entrará
+em contato, mas também irá entender como funciona os procesos daquela ONG. Sendo assim o tema será livre dentro do processo de trabalho da mesma.
 ### Inscrições  
 As inscrições serão realizadas uma semana antes do evento, e pra se inscrever é bem simples. 
 É só fazer um fork desse repositorio e adicionar um arquivo txt com o nome do seu time seguindo o arquivo de inscrição de exemplo, que está na pasta inscrições.
