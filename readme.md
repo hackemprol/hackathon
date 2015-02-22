@@ -12,5 +12,6 @@ O evento ocorrerá nos dias 10, 11, 12 de julho de 2015. Tendo início na sexta-
 Não haverá nenhum tipo de restrição sobre o software, linguagem de programação ou hardware desenvolvido.  
 ### Fase de apresentações
 Após o término da codificação será iniciado a fase de apresentações via Google Hangout, onde os usuários terão a oportunidade de mostrar como funciona o seu projeto da maneira que preferir.  
-
+### Temas  
+Os temas serão livres, existirão algumas sugestões criadas pelas as instituições de problemas que eles vêem enfrentando próximo do evento.  
 
